@@ -1,6 +1,8 @@
-### Seja bem vindo ao meu perfil  👩‍🏫
+### Oiê...
 
-Meu nome é Fernanda
+Boas-vindas ao meu perfil  👩‍🏫
+
+Meu nome é Fernanda Cardoso
 
 - Estou estudando na [Alura](https://www.alura.com.br/)
 - Estou aprendendo a linguagem JavaScript
